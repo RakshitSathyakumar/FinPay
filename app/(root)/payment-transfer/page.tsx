@@ -1,7 +1,9 @@
 
 const PaymentTransfer = () => {
   return (
-    <div>PaymentTransfer</div>
+    <div>
+      hi
+    </div>
   )
 }
 
