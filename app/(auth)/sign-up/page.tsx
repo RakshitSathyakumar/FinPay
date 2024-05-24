@@ -1,7 +1,11 @@
+import AuthForm from "@/components/AuthForm";
+
 const SignOut = () => {
   return (
-    <div>SignOut</div>
-  )
-}
+    <section className="flex-center size-full max-sm:px-6">
+      <AuthForm type="sign-up" />
+    </section>
+  );
+};
 
-export default SignOut
+export default SignOut;
