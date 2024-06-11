@@ -66,7 +66,7 @@ const RecentTransactions = ({
                 <Pagination totalPages={totalPages} page={page} />
               </div>
             )}
-          </TabsContent>
+        </TabsContent>
         ))}
       </Tabs>
     </section>
