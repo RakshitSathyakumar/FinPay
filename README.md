@@ -1,6 +1,6 @@
 # Amazon Hackon 2024 (Season 4) Prototype
-# Theme: Personalized Payment Experiences and Financial Management
-# Team Name : **Last Stride**
+## Theme: Personalized Payment Experiences and Financial Management
+## Team Name : **Last Stride**
 ## Team Members:  Priyanshu Rawat *(Team Lead)* , Rakshit Sathyakumar
 
 ## Prototype Resources
@@ -25,7 +25,6 @@
 
 ## 6. Personalized Mail Assistance
 ![expenditur aleary](https://github.com/RakshitSathyakumar/FinPay/assets/114494873/fc695d8e-bce1-42cc-bf80-b5b0731ee40f)
-
      
   
 
