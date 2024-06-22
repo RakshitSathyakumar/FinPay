@@ -36,7 +36,7 @@ const formSchema = z.object({
   notify: z.enum(["yes", "no"]),
 });
 
-const page = () => {
+const Page = () => {
   const [formData, setFormData] = useState({
     budget: "0",
     type: "none",
@@ -226,4 +226,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
