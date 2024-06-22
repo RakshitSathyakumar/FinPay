@@ -36,7 +36,7 @@
   
 
 # Introduction
-Welcome to the Integrated Chatbot System project, your comprehensive virtual assistant designed to enhance your online shopping experience and financial management. Navigating the vast world of e-commerce can be overwhelming, and keeping track of your spending, savings, and product choices often feels daunting. Our mission is to simplify this process, providing you with the tools and support you need to make informed decisions effortlessly.
+Welcome to the FinPay project, your comprehensive virtual assistant designed to enhance your online shopping experience and financial management. Navigating the vast world of e-commerce can be overwhelming, and keeping track of your spending, savings, and product choices often feels daunting. Our mission is to simplify this process, providing you with the tools and support you need to make informed decisions effortlessly.
 
 # Project Overview
 Our Goal
@@ -75,7 +75,7 @@ Payment Mode Suggestions: The chatbot recommends the best payment options to hel
 Maximum Cashback Calculation: By employing a K-means clustering algorithm, the chatbot analyzes various payment methods and identifies the one that offers the highest cashback for your purchases.
 Manual Assistance Redirection: If the chatbot is unable to resolve your queries, it seamlessly redirects you to human support, ensuring you always get the help you need.
 
-# Why Choose Amazon Customer Assistant Chatbot
+# Why Choose Amazon FinPay
 1. *Customer-Centric:* We are dedicated to your satisfaction, and our chatbot is here to assist and empower you in your online shopping journey.
 2. *Efficiency:* Save time and make informed choices with our fast and accurate responses.
 3. *Expertise:* Benefit from Amazon's collective expertise and advanced AI technology capabilities.
