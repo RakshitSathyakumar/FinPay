@@ -10,22 +10,23 @@
 
 # Prototype Images
   1. Personalized Financial Dashbpard
+     <img width="514" alt="finpay_logo_final" src="https://github.com/RakshitSathyakumar/FinPay/assets/114494873/d9094d08-8fcb-4283-8aee-243720cb287d">
 
       
 
-  2. Chat Bot as an AI Recommendation System
+  3. Chat Bot as an AI Recommendation System
   
   
      
-  3. Chatbot for Avaling Best Cashback offer
+  4. Chatbot for Avaling Best Cashback offer
 
      
 
-  4. Chatbot for Tracking Your Lastest Orders
+  5. Chatbot for Tracking Your Lastest Orders
 
      
 
-  5. Chatbot for commonly asked questions
+  6. Chatbot for commonly asked questions
 
       
 
