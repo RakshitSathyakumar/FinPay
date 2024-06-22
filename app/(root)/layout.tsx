@@ -1,8 +1,11 @@
+// "use client";
 import MobileNav from "@/components/MobileNav";
 import Sidebar from "@/components/SideBar";
 import { getLoggedInUser } from "@/lib/actions/user.actions";
 import Image from "next/image";
 import { redirect } from "next/navigation";
+// declare const window: any;
+export const dynamic = "force-dynamic";
 
 export default async function RootLayout({
   children,
