@@ -86,7 +86,7 @@ Manual Assistance Redirection: If the chatbot is unable to resolve your queries,
 - *Other Technologies:* Vercel for Deployment
 
 ## For any query contact us at
-** 21bec082@iiitdmj.ac.in , 21bec085@iiitdmj.ac.in **
+* 21bec082@iiitdmj.ac.in , 21bec085@iiitdmj.ac.in *
 
 
 
