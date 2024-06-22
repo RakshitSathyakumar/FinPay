@@ -9,24 +9,23 @@
 - Deployed Website: [Website Link](https://fin-pay.vercel.app/)
 
 # Prototype Images
-  1. Personalized Financial Dashbpard
+
+## 1. Personalized Financial Dashboard
 ![AmxonDashboard](https://github.com/RakshitSathyakumar/FinPay/assets/114494873/64701045-875f-476c-92dd-ee80b3dc19e6)
 
- 2. Chat Bot as an AI Recommendation System
+## 2. Chat Bot as an AI Recommendation System
 ![amaxRecommendation](https://github.com/RakshitSathyakumar/FinPay/assets/114494873/af28c976-ad69-462d-8094-9ca7fce99ce7)
-   
-  3. Chatbot for availing Best Cashback offer
-![cash](https://github.com/RakshitSathyakumar/FinPay/assets/114494873/eb803f5a-7c4f-42ae-b916-26af8aeb7e56)
- 
 
-  4. Chatbot for Tracking Your Lastest Orders
+## 3. Chatbot for availing Best Cashback offer
+![cash](https://github.com/RakshitSathyakumar/FinPay/assets/114494873/eb803f5a-7c4f-42ae-b916-26af8aeb7e56)
+
+## 4. Chatbot for Tracking Your Latest Orders
 ![latest_order](https://github.com/RakshitSathyakumar/FinPay/assets/114494873/2aab7087-16a5-4c2b-b667-2168ede86b7a)
 
-  5. Chatbot for commonly asked questions
+## 5. Chatbot for commonly asked questions
 ![faq](https://github.com/RakshitSathyakumar/FinPay/assets/114494873/8768c03a-f8b5-4fa3-99bd-0e0ab1890e5f)
- 
- 
-  6. Personalized Mail Assistance
+
+## 6. Personalized Mail Assistance
 ![expenditur aleary](https://github.com/RakshitSathyakumar/FinPay/assets/114494873/fc695d8e-bce1-42cc-bf80-b5b0731ee40f)
 
      
