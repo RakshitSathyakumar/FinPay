@@ -68,12 +68,28 @@ const config = {
           700: "#344054",
           900: "#101828",
         },
+        customGray: {
+          1: "#F0F0F0",
+        },
+        amazonOrange: {
+          1: "#FF9900",
+        },
+        amazonLess: {
+          1: "#555555",
+        },
+        amazonBlack: {
+          1: "#000000",
+        },amazonBlue:{
+          1:"#232F3E"
+        }
       },
       backgroundImage: {
         "bank-gradient": "linear-gradient(90deg, #0179FE 0%, #4893FF 100%)",
         "gradient-mesh": "url('/icons/gradient-mesh.svg')",
         "bank-green-gradient":
-          "linear-gradient(90deg, #01797A 0%, #489399 100%)",
+        "linear-gradient(90deg, #01797A 0%, #489399 100%)",
+        "amazon-gradient": "linear-gradient(90deg, #146EB4  0%, #2A8CDD  100%)",
+        "amazon-card-gradient": "linear-gradient(90deg, #232F3E  0%, #4893FF 100%)",
       },
       boxShadow: {
         form: "0px 1px 2px 0px rgba(16, 24, 40, 0.05)",

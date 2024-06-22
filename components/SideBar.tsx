@@ -14,7 +14,7 @@ const Sidebar = ({ user }: SiderbarProps) => {
   return (
     <section className="sidebar">
       <nav className="flex flex-col gap-4">
-        <Link href="/" className="mb-12 cursor-pointer flex items-center gap-2">
+        {/* <Link href="/" className="mb-12 cursor-pointer flex items-center gap-2">
           <Image
             src="/icons/logo.svg"
             width={34}
@@ -23,7 +23,7 @@ const Sidebar = ({ user }: SiderbarProps) => {
             className="size-[24px] max-xl:size-14"
           />
           <h1 className="sidebar-logo">FinPay</h1>
-        </Link>
+        </Link> */}
         {sidebarLinks.map((item) => {
           const isActive =
             pathname === item.route || pathname.startsWith(`${item.route}/`);
@@ -32,7 +32,7 @@ const Sidebar = ({ user }: SiderbarProps) => {
             <Link
               href={item.route}
               key={item.label}
-              className={cn("sidebar-link", { "bg-bank-gradient": isActive })}
+              className={cn("sidebar-link", { "bg-amazonOrange-1": isActive })}
             >
               <div className="relative size-6">
                 <Image

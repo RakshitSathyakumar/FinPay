@@ -137,21 +137,21 @@ const Dashboard = ({ type, notify, budget }: DashboardProps) => {
               amount={true}
               value={budgetValue}
               heading="Total Budget"
-              color="rgb(0, 185, 255)"
+              color="#FF9900"
             />
             <WidgetItem
               percent={4}
               amount={true}
               value={truncateToTwoDecimals(amountMonthlySpent)}
               heading="Amount Spent"
-              color="rgb(0, 115, 255)"
+              color="#FF9900"
             />
             <WidgetItem
               percent={-5}
               amount={true}
               value={truncateToTwoDecimals(budgetValue * 0.15)}
               heading="Remaining Amount"
-              color="rgb(0, 115, 255)"
+              color="#FF9900"
             />
           </div>
         </div>
@@ -170,13 +170,13 @@ const Dashboard = ({ type, notify, budget }: DashboardProps) => {
               percent={22}
               value={435}
               amount={true}
-              color="rgb(76, 0, 255)"
+              color="#FF9900"
               heading="Discount Availed"
             />
             <WidgetItem
               percent={-32}
               value={5}
-              color="rgb(76, 0, 255)"
+              color="#FF9900"
               heading="Total Transactions"
             />
           </div>
@@ -237,20 +237,20 @@ const Dashboard = ({ type, notify, budget }: DashboardProps) => {
               amount={true}
               value={6500}
               heading="Amazon Ecommerce"
-              color="rgb(0, 115, 255)"
+              color="#FF9900"
             />
             <WidgetItem
               percent={12}
               value={3810}
               amount={true}
-              color="rgb(255, 196, 0)"
+              color="#FF9900"
               heading="Amazon Fresh"
             />
             <WidgetItem
               percent={-2}
               value={2000}
               amount={true}
-              color="rgb(255, 196, 0)"
+              color="#FF9900"
               heading="Amazon Prime"
             />
           </div>

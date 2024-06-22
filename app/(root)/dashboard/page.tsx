@@ -59,13 +59,19 @@ const Page = () => {
   return (
     <>
       <section className="p-[5%]">
-        <HeaderBox title="User Dashboard" subtext="See your spending!" />
+        <div className="header-box">
+          <h1 className="header-box-title">
+            User 
+            <span className="text-amazonOrange-1">{" "}Dashboard</span>
+          </h1>
+          <p className="header-box-subtext">See your spendings</p>
+        </div>
         <div className="bg-grey-100 flex flex-center items-center justify-center">
           <Drawer>
             <DrawerTrigger asChild>
               <Button
-                variant="outline"
-                className="bg-blue-500 text-white px-4 py-2 rounded"
+                variant="secondary"
+                className="bg-amazonOrange-1 text-amazonBlack-1 px-4 py-2 rounded"
               >
                 Budget
               </Button>
@@ -214,7 +220,7 @@ const Page = () => {
         </div>
       </section>
       {formData.type === "none" ? (
-        <h2>hui</h2>
+        <></>
       ) : (
         <Dashboard
           type={formData.type}

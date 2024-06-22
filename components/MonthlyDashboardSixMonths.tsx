@@ -21,8 +21,8 @@ const MonthlyDashboardSixMonths: React.FC<MonthlyDashboardProps> = ({
           data_2={[2102, 3404, 1402, 8200, 1200, 5630]}
           title_1="Orders"
           title_2="Amount Spent"
-          bgColor_1="rgb(0, 115, 255)"
-          bgColor_2="rgba(53, 162, 235, 0.8)"
+          bgColor_1="#FF9900"
+          bgColor_2="#000000"
         />
       </div>
     </section>

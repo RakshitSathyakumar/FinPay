@@ -26,8 +26,8 @@ const MonthlyDashboard: React.FC<MonthlyDashboardProps> = ({ typeOfData }) => {
           ]}
           title_1="Order"
           title_2="Amount Spent"
-          bgColor_1="rgb(0, 115, 255)"
-          bgColor_2="rgba(53, 162, 235, 0.8)"
+          bgColor_1="#FF9900"
+          bgColor_2="#000000"
         />
       </div>
     </section>

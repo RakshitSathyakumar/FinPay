@@ -1,4 +1,5 @@
 // "use client";
+import { Header } from "@/components/Header";
 import MobileNav from "@/components/MobileNav";
 import Sidebar from "@/components/SideBar";
 import { getLoggedInUser } from "@/lib/actions/user.actions";
@@ -17,6 +18,8 @@ export default async function RootLayout({
   if(!loggedIn) redirect('/sign-in')
 
   return (
+    <>
+    <Header />
     <main className="flex h-screen w-full font-inter">
       <Sidebar user={loggedIn} />
 
@@ -30,5 +33,6 @@ export default async function RootLayout({
         {children}
       </div>
     </main>
+    </>
   );
 }

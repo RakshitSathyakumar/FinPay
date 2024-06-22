@@ -39,7 +39,7 @@ export const WidgetItem = ({
       style={{
         background: `conic-gradient(
           ${color} ${(Math.abs(percent) / 100) * 360}deg,
-          rgb(82, 97, 107) 0
+          #232F3E 0
         )`,
       }}
     >
