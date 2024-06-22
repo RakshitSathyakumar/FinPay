@@ -15,7 +15,8 @@
 
   2. Chat Bot as an AI Recommendation System
   
-    
+  ![amaxRecommendation](https://github.com/RakshitSathyakumar/FinPay/assets/114494873/af28c976-ad69-462d-8094-9ca7fce99ce7)
+
      
   3. Chatbot for Avaling Best Cashback offer
 
