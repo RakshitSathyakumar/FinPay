@@ -10,7 +10,7 @@
 
 # Prototype Images
   1. Personalized Financial Dashbpard
-<img width="514" alt="finpay_logo_final" src="https://github.com/RakshitSathyakumar/FinPay/assets/114494873/d9094d08-8fcb-4283-8aee-243720cb287d">
+
 
       
 
