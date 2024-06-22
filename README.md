@@ -1,11 +1,9 @@
-## Amazon Hackon 2024 (Season 4) Prototype
-## Theme: Personalized Payment Experiences and Financial Management
-
-## Team Name : **Last Stride**
-
+# Amazon Hackon 2024 (Season 4) Prototype
+# Theme: Personalized Payment Experiences and Financial Management
+# Team Name : **Last Stride**
 ## Team Members:  Priyanshu Rawat *(Team Lead)* , Rakshit Sathyakumar
 
-# Prototype Resources
+## Prototype Resources
 - Deployed Website: [Website Link](https://fin-pay.vercel.app/)
 
 # Prototype Images
@@ -44,31 +42,31 @@ Our chatbot is powered by a state-of-the-art Language Model (LLM) based on Gemin
 ## Financial Dashboard
 Our Financial Dashboard is a powerful tool designed to give you complete control over your financial activities and help you stay on top of your spending habits. Here's how it helps:
 
-**Online E-commerce Spending**: Track your total expenditures across all online shopping platforms, ensuring you always know where your money is going.
+**1 Online E-commerce Spending**: Track your total expenditures across all online shopping platforms, ensuring you always know where your money is going.
 
-**Category Wise Spendings**: Break down your spending into categories, providing you with detailed insights into your purchasing patterns.
+**2 Category Wise Spendings**: Break down your spending into categories, providing you with detailed insights into your purchasing patterns.
 
-**Email and SMS Notification Services**:
+**3 Email and SMS Notification Services**:
 Set Budget Alerts: Set personalized budget limits and receive notifications to keep your spending in check.
 
-**Updates on Savings and Expenditure**: Get timely updates on your financial status, including savings and expenses.
+**4 Updates on Savings and Expenditure**: Get timely updates on your financial status, including savings and expenses.
 Sales Notifications: Receive alerts about upcoming sales and special offers, so you never miss a deal.
 
-**Spending Tracking**: Monitor your financial activities on a monthly, weekly, and yearly basis to better understand and manage your money.
+**5 Spending Tracking**: Monitor your financial activities on a monthly, weekly, and yearly basis to better understand and manage your money.
 Informed Decision-Making: Access all necessary metrics and insights to make informed financial decisions, helping you save more and spend wisely.
 
 ## Chatbot Functionalities
 
 Our integrated chatbot system is designed to make your online shopping and financial management experience seamless and enjoyable. Here's how it can assist you:
 
-**Product Recommendations** : Our chatbot suggests products based on your preferences and queries, helping you find the best options tailored to your needs.
+**1 Product Recommendations** : Our chatbot suggests products based on your preferences and queries, helping you find the best options tailored to your needs.
 
-**FAQs**: Quickly get answers to frequently asked questions, resolving common issues without the need for human intervention.
+**2 FAQs**: Quickly get answers to frequently asked questions, resolving common issues without the need for human intervention.
 
-**Order Tracking**: Stay informed about the status of your orders with real-time updates, ensuring you always know where your purchases are.
+**3 Order Tracking**: Stay informed about the status of your orders with real-time updates, ensuring you always know where your purchases are.
 Payment Mode Suggestions: The chatbot recommends the best payment options to help you maximize discounts and benefits, ensuring you get the most value for your money.
 
-**Maximum Cashback Calculation**: By employing a K-means clustering algorithm, the chatbot analyzes various payment methods and identifies the one that offers the highest cashback for your purchases.
+**4 Maximum Cashback Calculation**: By employing a K-means clustering algorithm, the chatbot analyzes various payment methods and identifies the one that offers the highest cashback for your purchases.
 Manual Assistance Redirection: If the chatbot is unable to resolve your queries, it seamlessly redirects you to human support, ensuring you always get the help you need.
 
 
