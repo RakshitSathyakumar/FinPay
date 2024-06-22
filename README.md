@@ -84,11 +84,10 @@ Manual Assistance Redirection: If the chatbot is unable to resolve your queries,
 - *Database:* MongoDB,AppWrite
 - *String Matchings:* Used for similarity search
 - *K-Means Clustering:* Used for best Cashback available
-- *LLM Model:* Gemini API, OpenAI API
+- *LLM Model:* Gemini API
 - *Mails:* Used Node-Mailer and Twillio for SMS service 
 - *Other Technologies:* Vercel for Deployment
 
-# Methodology
 
 
 
