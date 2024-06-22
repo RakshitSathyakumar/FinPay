@@ -39,7 +39,7 @@ const formSchema = z.object({
 const page = () => {
   const [formData, setFormData] = useState({
     budget: "0",
-    type: "monthly",
+    type: "none",
     notify: "no",
   });
 
@@ -213,14 +213,14 @@ const page = () => {
           </Drawer>
         </div>
       </section>
-      {formData.type !== "none" ? (
+      {formData.type === "none" ? (
+        <h2>hui</h2>
+      ) : (
         <Dashboard
           type={formData.type}
           notify={formData.notify}
           budget={formData.budget}
         />
-      ) : (
-        <h2>hui</h2>
       )}
     </>
   );
