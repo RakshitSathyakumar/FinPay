@@ -26,7 +26,8 @@
 ## 6. Personalized Mail Assistance
 ![expenditur aleary](https://github.com/RakshitSathyakumar/FinPay/assets/114494873/fc695d8e-bce1-42cc-bf80-b5b0731ee40f)
      
-  
+#Flowmap
+![finalSystemDesignHackon](https://github.com/user-attachments/assets/2585506e-851a-4811-ad5a-8d1ceb40ff4d)
 
 # Introduction
 Welcome to FinPay project, your comprehensive virtual assistant designed to enhance your online shopping experience and financial management. Navigating the vast world of e-commerce can be overwhelming, and keeping track of your spending, savings, and product choices often feels daunting. Our mission is to simplify this process, providing you with the tools and support you need to make informed decisions effortlessly.
